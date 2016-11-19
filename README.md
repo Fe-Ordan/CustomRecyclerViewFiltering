@@ -6,4 +6,4 @@ This is what we do :
 2. The RecyclerView has images and text.
 3. After Filtering we handle ItemClick Listeners for the RecycerView.
 
-For more : http://camposha.info/source/android-customrecyclerview-filtering/
+For full tutorial Check : http://camposha.info/source/android-recyclerview-search-filter/
